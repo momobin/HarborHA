@@ -14,7 +14,8 @@ Keepalived virtual router id : 11
 ```bash=
 wget http://download.redis.io/releases/redis-4.0.6.tar.gz
 tar -zxvf redis-4.0.6.tar.gz
-sudo sudo apt-get install keepalived
+sudo apt-get install keepalived
+sudo yum -y install keepalived
 ```
 
 2. Redis 1 and 2 編譯Redis  
